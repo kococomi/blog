@@ -1,9 +1,9 @@
 +++
 title = "About"
-date = "2014-04-09"
+date = "2020-01-04"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "kococomi"
 +++
 
 中間杯最好了
