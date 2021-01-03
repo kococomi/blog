@@ -2,7 +2,7 @@ baseurl: https://unlicensed.astro.clinic
 languageCode: en-us
 theme: stack
 paginate: 5
-title: Out of Service
+title: OUT OF SERVICE
 
 # Change it to your Disqus shortname before using
 disqusShortname: 
@@ -35,7 +35,7 @@ params:
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             local: true
-            src: img/avatar.png
+            src: img/avatar.JPG
 
     article:
         math: false
