@@ -14,7 +14,7 @@ tags:
 
 &nbsp; &nbsp; &nbsp; 中國社交網路近幾年興起的「PTSD」一詞的大規模使用 —— 通常是「我有 xxx PTSD」 和 「我對 xxx 有 PTSD」這種形式 —— 總是令我感到十分違和。違和的點在於：雖然理解他們是想借一個 mental disorder 來誇張化地表達自己的某種心理，但似乎選錯那個 disorder 了。我在中文社交網路中看到的包含「PTSD」的句子，90% 以上的情況作者實際上想表達的都是「我有關於某個東西的 phobia (恐懼症)」 而非 PTSD。
 
-&nbsp; &nbsp; &nbsp; 簡單解釋一下 PTSD 和 phobia 的區別：
+&nbsp; &nbsp; &nbsp; 簡單解釋一下 [PTSD](https://www.ncbi.nlm.nih.gov/books/NBK207191/box/part1_ch3.box16/) 和 [phobia](https://www.ncbi.nlm.nih.gov/books/NBK519704/table/ch3.t11/) 的區別：
 
 &nbsp; &nbsp; &nbsp; PTSD 是經歷了一個高強度的創傷性事件 (traumatic event) 後的「類後遺症」疾病。比如，強姦案的受害者會非常害怕走到強姦發生的那條巷子、退伍老兵會非常害怕看到血與槍支。而對這些東西的「怕」或者「不適」，本質上是因為它們會讓 PTSD 患者想到他們經歷過的那個對他們來說無比恐怖、絕對不想回憶起的創傷性事件（強姦、戰爭)。也就是說，所有跟 PTSD 有關的心理不適，本質上都是導致他們患上 PTSD 的核心創傷所引發的。
 
