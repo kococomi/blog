@@ -1,7 +1,7 @@
 ---
 title: "有關中國社交網路中「PTSD」一詞的濫用及誤用的想法 "
 date: 2020-05-24T12:06:49+11:00
-toc: false
+toc: true
 images:
 tags:
   - PTSD
