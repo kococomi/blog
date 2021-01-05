@@ -1,5 +1,5 @@
 ---
-title: "试着用「你知道一年要死多少缉毒警察吗」以外的思路聊聊毒品问题"
+title: "用「你知道一年要死多少缉毒警察吗」以外的思路聊聊毒品问题"
 date: 2020-08-11T03:15:56+11:00
 toc: false
 images:
@@ -30,6 +30,6 @@ tags:
 
 分享这些並没有说「毒品应该被合法化」的意思，只是觉得去了解与思考政策背后利益权衡的逻辑和科学数据支持的合理性相较于直接对一切放宽毒品使用的政策都轻易用「疯了」和「傻逼」来该概括要略微不反智一点点。
 
-[1]https://transformdrugs.org/drug-decriminalisation-in-portugal-setting-the-record-straight/
+[1] (https://transformdrugs.org/drug-decriminalisation-in-portugal-setting-the-record-straight/)
 
-[2]https://www.drugpolicy.org/sites/default/files/dpa-drug-decriminalization-portugal-health-human-centered-approach_0.pdf
+[2] (https://www.drugpolicy.org/sites/default/files/dpa-drug-decriminalization-portugal-health-human-centered-approach_0.pdf)
