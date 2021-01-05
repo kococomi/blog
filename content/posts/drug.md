@@ -20,7 +20,7 @@ tags:
 
 這個「替代品」思路有一個隱含的邏輯是，毒品的需求量／交易量是不會驟降的。關閉暗網交易渠道不會對毒品使用率產生巨大影響，而會使得毒品犯罪以一種政府更不希望的形式發生。所以對於認為至少在短期內無法大量減少毒品使用的政府／犯罪學家來說，毒品相關政策需要加入的一個考慮是「如何通過減少吸毒人口以外的方式降低毒品的損害」，即 harm reduction。
 
-而這個 harm reduction 的概念，實際上是相對寬容的毒品政策的重中之重。舉例來說，葡萄牙在2001年對全種類的毒品的使用和持有進行了除罪化之後 （販賣和種植毒品依舊屬於刑事犯罪），在吸毒率從歐洲最高之一降到一直保持在歐洲平均值以下的前提下，吸毒死亡率，HIV 感染率和毒品相關的其他犯罪率都明顯下降了 [1](https://transformdrugs.org/drug-decriminalisation-in-portugal-setting-the-record-straight/) , [2](https://www.drugpolicy.org/sites/default/files/dpa-drug-decriminalization-portugal-health-human-centered-approach_0.pdf) 。而這其實是有更完善的醫療和其他社會保障資源跟進寬鬆的毒品政策的結果。
+而這個 harm reduction 的概念，實際上是相對寬容的毒品政策的重中之重。舉例來說，葡萄牙在2001年對全種類的毒品的使用和持有進行了除罪化之後 （販賣和種植毒品依舊屬於刑事犯罪），在吸毒率從歐洲最高之一降到一直保持在歐洲平均值以下的前提下，吸毒死亡率，HIV 感染率和毒品相關的其他犯罪率都明顯下降了 [[1]](https://transformdrugs.org/drug-decriminalisation-in-portugal-setting-the-record-straight/) ,[[2]](https://www.drugpolicy.org/sites/default/files/dpa-drug-decriminalization-portugal-health-human-centered-approach_0.pdf) 。而這其實是有更完善的醫療和其他社會保障資源跟進寬鬆的毒品政策的結果。
 
 當使用毒品不再是犯罪行為，人們在吸食毒品遇到不良反應時則更願意求救。考慮到自己戒毒其實相當危險，能免於嚴厲懲罰並得到國家在戒毒上的幫助也對有戒毒意向的人有益。因使用及持有毒品的除罪化，線下毒品交易也更容易以相對和平的方式進行。
 
