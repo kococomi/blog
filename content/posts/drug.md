@@ -30,6 +30,6 @@ tags:
 
 分享这些並没有说「毒品应该被合法化」的意思，只是觉得去了解与思考政策背后利益权衡的逻辑和科学数据支持的合理性相较于直接对一切放宽毒品使用的政策都轻易用「疯了」和「傻逼」来该概括要略微不反智一点点。
 
-[1] (https://transformdrugs.org/drug-decriminalisation-in-portugal-setting-the-record-straight/)
+[1] <https://transformdrugs.org/drug-decriminalisation-in-portugal-setting-the-record-straight/>
 
-[2] (https://www.drugpolicy.org/sites/default/files/dpa-drug-decriminalization-portugal-health-human-centered-approach_0.pdf)
+[2] <https://www.drugpolicy.org/sites/default/files/dpa-drug-decriminalization-portugal-health-human-centered-approach_0.pdf>
