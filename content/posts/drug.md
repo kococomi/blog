@@ -32,4 +32,6 @@ tags:
 
 &nbsp; &nbsp;  <br>
 
+註：
+
 *「合法化 (legalization)」和「非罪化 (decriminalization)」在法學和犯罪學上是兩個概念 [[3](https://adf.org.au/talking-about-drugs/law/decriminalisation/overview-decriminalisation-legalisation/)]。前者指取消一切處罰，後者指取消 criminal charges，但行為人依舊可能被民事指控，被處以強制參加 education program 和罰款等一系列不經由法院系統的處罰。
