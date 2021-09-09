@@ -33,7 +33,7 @@ tags:
 
 &nbsp; &nbsp;  <br>
 
-&nbsp; &nbsp; &nbsp; **Q2: 如果我不說「名詞 + PTSD」而是隻說「我 PTSD 了」，是否可行？**
+&nbsp; &nbsp; &nbsp; **Q2: 如果我不說「名詞 + PTSD」而是只說「我 PTSD 了」，是否可行？**
 
 &nbsp; &nbsp; &nbsp; A2：依舊不推薦這樣使用。首先，根據 PTSD 的診斷標準，導致 PTSD 的「創傷性事件」必須是和「實際發生了的或被威脅的死亡，嚴重（肢體）傷害或性暴力」相關 [[1](https://www.ncbi.nlm.nih.gov/books/NBK207191/box/part1_ch3.box16/)] 。
 
