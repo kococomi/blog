@@ -6,9 +6,27 @@ aliases = ["about-us","about-hugo","contact"]
   name = "kococomi"
 +++
 
-每次在自我介紹的時候，總會覺得無從開口。
+`runif(1)` 是 R 中用於生成一個隨機數的命令。
 
-縱然有太多可以用來自我介紹的 label——愛好、國籍、性別認同、教育背景、生活過的地方⋯⋯但我總覺得，那些都不是可以概括我、定義我的東西。若在這裡寫下關於自己的三言兩語，只是在提供一些自我窄化的思路。
+它其實是「generate a random uniform number」的意思（「r unif」），而不是讀成「run if」。
 
-如果可以的話，希望自己被了解的方式是通過更多能闡述我的理念的、不瑣碎的片段。
+我時常覺得自己即便是在自己相當珍視的人眼中好像也不夠「具體」，是常被用表層的標籤解釋行為的、被窄化的、他人世界中的 randomly generated character —— neglectable、replaceable、disposable。
+
+但似乎就連誤讀的「run if」，也是我時常的狀態。因為我好像常在逃跑。
+
+從友誼中逃跑，從親密關係中逃跑，從酒店房間逃跑，從家裡逃跑，從某個城市逃跑，從某個國家逃跑。
+
+「run if it hurts」
+
+「run if the silence breaks you」
+
+「run if our connection has been lost」
+
+but it could go a different direction right?
+
+「run if …… I feel like seizing you」
+
+I run to you.
+
+
 

@@ -56,7 +56,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Aurora's trash can"
+  homeSubtitle = ""
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
